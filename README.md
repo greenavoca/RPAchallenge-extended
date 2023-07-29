@@ -1,5 +1,3 @@
-# RPAchallenge-extended
-
 <h1>RPAchallenge-extended</h1>
     <ul>
         <li>solving RPA Challenge</li>
